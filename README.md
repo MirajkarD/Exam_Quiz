@@ -68,22 +68,22 @@ Exam Quiz is a comprehensive web application designed to facilitate online quizz
 ### Run the application
  - Start your web server (Apache/Nginx) and set the document root to the public directory
  - Access the application via your web browser
-## Screenshot
 
 #### Admin Login - (http://localhost/Exam/institute-section/login.php)
-![Screenshot of Application](https://github.com/MirajkarD/Screenshots/blob/main/Screenshot%202024-05-19%20095230.png)
+![Screenshot 2024-05-19 095230](https://github.com/MirajkarD/Exam_Quiz/assets/149373015/1e132115-f497-4e47-b2a3-4ba0014b7147)
 
 
 #### Admin Dashboard
-![Screenshot of Application](https://github.com/MirajkarD/Screenshots/blob/main/Screenshot%202024-05-19%20095247.png)
+![Screenshot 2024-05-19 095247](https://github.com/MirajkarD/Exam_Quiz/assets/149373015/65e3abd2-c997-4710-88fc-617e208d8f4f)
 
 
 #### List of Students
-![Screenshot of Application](https://github.com/MirajkarD/Screenshots/blob/main/Screenshot%202024-05-19%20095313.png)
+![Screenshot 2024-05-19 095313](https://github.com/MirajkarD/Exam_Quiz/assets/149373015/47ff78b1-45ca-42d6-bd7b-f61d6f278f1a)
 
 #### Student Login(https://localhost/Exam/login.php) 
 #### Username - Exam Id 
-![Screenshot of Application](https://github.com/MirajkarD/Screenshots/blob/main/Screenshot%202024-05-19%20095331.png)
+![Screenshot 2024-05-19 095331](https://github.com/MirajkarD/Exam_Quiz/assets/149373015/0af42269-e991-41a5-b644-73bb0cafc38d)
+
 
 #### Student Dashboard
 ![Screenshot of Application](https://github.com/MirajkarD/Screenshots/blob/main/Screenshot%202024-05-19%20095342.png)
@@ -91,8 +91,6 @@ Exam Quiz is a comprehensive web application designed to facilitate online quizz
 
 - [@MirajkarD](https://www.github.com/MirajkarD)
 
-
 ## Feedback
 
-If you have any feedback, please reach out to us at sonalimirajkar174@gmail.com 
-
+If you have any feedback, please reach out to me at sonalimirajkar174@gmail.com
